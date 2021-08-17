@@ -1,1 +1,2 @@
-# dotnet-core-starter
+# Dotnet Core Starter
+
